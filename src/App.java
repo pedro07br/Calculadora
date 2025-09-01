@@ -42,5 +42,6 @@ public class App {
         }
 
         scanner.close();
+        System.err.println("Fim do codigo");
     }
 }
