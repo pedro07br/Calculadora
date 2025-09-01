@@ -20,6 +20,6 @@ Além de treinar lógica de programação básica em Java, o repositório mostra
 ## 📂 Estrutura do projeto
 
 📦 calculadora-java
- ┣ 📜 App.java         # Código principal da calculadora
- ┣ 📜 README.md        # Documentação do projeto
- ┗ 📜 .gitignore       # Arquivo de exclusão do Git (se configurado)
+  📜 App.java         # Código principal da calculadora
+  📜 README.md        # Documentação do projeto
+  📜 .gitignore       # Arquivo de exclusão do Git (se configurado)
